@@ -1,7 +1,6 @@
-## Hi there, I'm Nadira 👋 <img align="right" alt="GIF" height="180px" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" />
+## Hi there, I'm Nadira 👋 <img align="right" alt="GIF" height="180px" src="https://github.com/user-attachments/assets/1c3c894a-791d-4166-93b9-a6cb334acd6c" />
 
-- ⚒️ I am a Web Developer
-- 🔖 I am currently leanring NestJS
+- ⚒️ I am a MERN stack developer
 - 📫 How to reach me: nadirafarhat770@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I take good photographs
