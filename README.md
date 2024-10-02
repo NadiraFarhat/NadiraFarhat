@@ -3,7 +3,7 @@
 - ⚒️ I am a Web developer 
 - 📫 How to reach me: nadirafarhat770@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I take good photographs
+- ⚡ Fun fact: I hate the word LOL
 <br />
 
 <h2 align="center">👨‍💻 Languages and Tools</h2>
