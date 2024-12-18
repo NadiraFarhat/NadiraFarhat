@@ -23,4 +23,3 @@
 | 🔥 Streak | 📊 Stats |
 | --- | --- |
 | <img src="https://github-readme-streak-stats.herokuapp.com?user=nadirafarhat&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=nadirafarhat&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
-https://www.codewars.com/users/nadira-farhat/badges/micro
