@@ -3,6 +3,7 @@
 - ⚒️ I am a Web developer 
 - 📫 How to reach me: nadirafarhat770@gmail.com
 - 😄 Pronouns: she/her
+- ❣️ I am into: Gaming & Photography
 
 <br />
 
