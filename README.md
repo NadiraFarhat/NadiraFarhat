@@ -1,6 +1,6 @@
 ## Hey there, I'm Nadira 👋 <img align="right" alt="GIF" height="170px" src="https://github.com/user-attachments/assets/1c3c894a-791d-4166-93b9-a6cb334acd6c" />
 
-- ⚒️ I am a Web developer 
+- ⚒️ I am a Web developer & Salesforce Administrator
 - 📫 How to reach me: nadirafarhat770@gmail.com
 - 😄 Pronouns: she/her
 - ❣️ I am into: Gaming & Photography
